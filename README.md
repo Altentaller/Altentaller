@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Nina Altentaller
 [![Gmail Badge](https://img.shields.io/badge/-n.altentaller@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:n.altentaller@gmail.com)](mailto:n.altentaller@gmail.com) 
-## Some of my stats
+##
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Altentaller alt=Altentaller /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altentaller&layout=compact)](https://github.com/Altentaller/github-readme-stats)
