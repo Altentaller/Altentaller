@@ -1,10 +1,9 @@
-## Hey 👋, I'm Nina Altentaller
-[![Gmail Badge](https://img.shields.io/badge/-n.altentaller@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:n.altentaller@gmail.com)](mailto:n.altentaller@gmail.com) 
-##
+![alt text](https://raw.githubusercontent.com/Altentaller/Altentaller/master/header.PNG "screenshot")
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altentaller&layout=compact&theme=radical)](https://github.com/Altentaller/github-readme-stats)
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Altentaller alt=Altentaller /> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altentaller&layout=compact)](https://github.com/Altentaller/github-readme-stats)
-
 
 <!--
 **Altentaller/Altentaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
