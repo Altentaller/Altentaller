@@ -1,7 +1,7 @@
 ![alt text](https://raw.githubusercontent.com/Altentaller/Altentaller/master/header.PNG "screenshot")
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altentaller&layout=compact&theme=radical)](https://github.com/Altentaller/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altentaller&layout=compact&theme=slateorange)](https://github.com/Altentaller/github-readme-stats)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Altentaller alt=Altentaller /> </p>
 
