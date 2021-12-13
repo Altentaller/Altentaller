@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Altentaller/Altentaller/master/header.PNG "screenshot")
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Altentaller&layout=compact&theme=slateorange)](https://github.com/Altentaller/github-readme-stats)
